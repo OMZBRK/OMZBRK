@@ -12,7 +12,7 @@
 ---
 
 ### ○ Background
-Rien à dire.
+.
 
 ---
 
