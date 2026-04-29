@@ -1,7 +1,7 @@
 <h1 align="center">OMZBRK</h1>
 
 <p align="center">
-  <strong>"Computer" Engineering Student</strong><br>
+  <strong>Computer Engineering Student</strong><br>
 </p>
 
 <div align="center">
